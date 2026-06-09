@@ -16,8 +16,8 @@ Het doel van dit MVP is om snel te valideren of gebruikers interesse hebben in h
 - Open-source kaarttechnologie zonder vendor lock-in
 
 ## Screenshots
-![Kaartoverzicht](screenshots/map-overview.png)
-![Kaartoverzicht Detail](screenshots/map-overview-detail.png)
+![Kaartoverzicht](map-overview.png)
+![Kaartoverzicht Detail](map-overview-detail.png)
 
 ## Technische Stack
 - Swift
